@@ -6,6 +6,6 @@ hogehoge
 
 ## Description
 
-hoge is [hoge](https://www.google.com/)<a href="https://www.google.com/"><img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>.  
+hoge is <a href="https://www.google.com/" target="_new">hoge<img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>.  
 ![twitter](https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg)
 <img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px">
