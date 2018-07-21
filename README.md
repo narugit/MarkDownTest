@@ -7,5 +7,8 @@ hogehoge
 ## Description
 
 hoge is <a href="https://www.google.com/" target="_new">hoge<img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>.  
+
+<a href="https://www.google.com/" target="_blank">hoge<img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>
+
 ![twitter](https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg)
 <img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px">
