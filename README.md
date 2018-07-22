@@ -12,19 +12,38 @@ GitHub上でのMarkDown記法を試すためのリポジトリ．
 
 ## SVG
 
-![twitter](https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg)
+### Only SVG
+
+#### Code
+    ![Alt Text](https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg)
+    <img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px">
+
+#### Result
+![Alt Text](https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg)
 <img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px">
 
-### HyperLink
+### SVG with HyperLink
 
-文字とsvgにリンク <a href="https://www.google.com/">hoge<img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>をつける．
+#### Code
+    <a href="https://www.google.com/">hoge<img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>
 
-### 無効
+#### Result
+<a href="https://www.google.com/">hoge<img src="https://github.com/narugit/MarkDownTest/blob/media/twitter-icon.svg" width="18px"></a>
+
+### Cannot use in SVG
 - target属性
 - svgタグ内でのsize指定(widthなど)
 
 ## GIF
 
-![cARDemo.gif](https://github.com/narugit/cAR/blob/media/cARDemo.gif)
+### Code
+
+    ![Alt Text](https://github.com/narugit/cAR/blob/media/cARDemo.gif)
+    <img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="30%">
+    <img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="200px">
+
+### Result
+
+![Alt Text](https://github.com/narugit/cAR/blob/media/cARDemo.gif)
 <img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="30%">
-<img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="100px">
+<img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="200px">
