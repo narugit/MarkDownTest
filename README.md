@@ -22,3 +22,9 @@ GitHub上でのMarkDown記法を試すためのリポジトリ．
 ### 無効
 - target属性
 - svgタグ内でのsize指定(widthなど)
+
+## GIF
+
+![cARDemo.gif](https://github.com/narugit/cAR/blob/media/cARDemo.gif)
+<img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="30%">
+<img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="100px">
