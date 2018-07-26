@@ -47,3 +47,17 @@ GitHub上でのMarkDown記法を試すためのリポジトリ．
 ![Alt Text](https://github.com/narugit/cAR/blob/media/cARDemo.gif)
 <img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="30%">
 <img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" width="200px">
+
+## ページ内リンク
+
+MarkDown上での#の数は関係ない
+
+### Code
+
+    <a href="#SVG">SVG</a>へのリンク
+    [SVG](#SVG)へのリンク
+
+### Result
+
+<a href="##SVG">SVG</a>へのリンク  
+[SVG](#SVG)へのリンク
