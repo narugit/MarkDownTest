@@ -56,8 +56,10 @@ MarkDown上での#の数は関係ない
 
     <a href="#svg">SVG</a>へのリンク
     [SVG](#svg)へのリンク
+    [Only SVG](#only-svg)へのリンク
 
 ### Result
 
 <a href="#svg">SVG</a>へのリンク  
-[SVG](#svg)へのリンク
+[SVG](#svg)へのリンク  
+[Only SVG](#only-svg)へのリンク
